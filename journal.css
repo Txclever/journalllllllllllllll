@@ -36,6 +36,12 @@ td,th{
 th{
   background-color: #cc6600;
 }
+td{
+  text-align: center;
+}
+.display{
+  text-align: none;
+}
 caption{
   font-style: italic;
   padding-top: 8px;
